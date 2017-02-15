@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Minions
+comment0.text=\n\ Write\ a\ description\ of\ class\ Minions\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getIndex()
+comment2.params=x
+comment2.target=void\ setIndex(int)
+comment3.params=
+comment3.target=int\ getLocationX()
+comment4.params=x
+comment4.target=void\ setLocationX(int)
+comment5.params=x
+comment5.target=void\ moveTo(int)
+comment6.params=
+comment6.target=void\ act()
+numComments=7

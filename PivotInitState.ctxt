@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PivotInitState
+comment0.text=\n\ Write\ a\ description\ of\ class\ PivotInitState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gm
+comment1.target=PivotInitState(GameStateManager)
+comment2.params=
+comment2.target=void\ clickShortMinion()
+comment3.params=
+comment3.target=void\ clickTallMinion()
+numComments=4

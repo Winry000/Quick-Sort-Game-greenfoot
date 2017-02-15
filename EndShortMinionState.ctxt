@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EndShortMinionState
+comment0.text=\n\ Write\ a\ description\ of\ class\ EndShortMinionState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gm
+comment1.target=EndShortMinionState(GameStateManager)
+comment2.params=
+comment2.target=void\ clickTallMinion()
+numComments=3

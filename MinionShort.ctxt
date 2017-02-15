@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MinionShort
+comment0.text=\n\ Write\ a\ description\ of\ class\ MinionShort\ here.\n\ This\ is\ the\ short\ minion\ which\ pick\ the\ lower\ number\ in\ the\ sequence.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MinionShort()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ MinionShort\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

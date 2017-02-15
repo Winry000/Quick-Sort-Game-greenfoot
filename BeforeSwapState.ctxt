@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BeforeSwapState
+comment0.text=\n\ Write\ a\ description\ of\ class\ BeforeSwapState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gm
+comment1.target=BeforeSwapState(GameStateManager)
+comment2.params=
+comment2.target=void\ clickSwap()
+comment3.params=
+comment3.target=void\ clickDone()
+numComments=4
